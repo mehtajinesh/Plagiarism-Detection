@@ -23,6 +23,6 @@ In this project, I build a plagiarism detector that examines a text file and per
 * Evaluate your deployed classifier.
 
 ### **Reviews & Validations**
-- From [Udacity](https://github.com/mehtajinesh/Plagiarism-Detection/master/review.pdf)
+- From [Udacity](https://github.com/mehtajinesh/Plagiarism-Detection/blob/master/review.pdf)
 
 ---
