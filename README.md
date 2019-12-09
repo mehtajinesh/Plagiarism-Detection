@@ -22,4 +22,7 @@ In this project, I build a plagiarism detector that examines a text file and per
 * Train your model and deploy it using SageMaker.
 * Evaluate your deployed classifier.
 
+### **Reviews & Validations**
+- From [Udacity](https://github.com/mehtajinesh/Plagiarism-Detection/master/review.pdf)
+
 ---
